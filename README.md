@@ -10,4 +10,4 @@ We propose Hypersimify-DA2, an efficient method for high-resolution monocular me
 
 The key novelty of our method is implementing a training-free mapping of the input real image domain to the synthetic image domain (HyperSim-like) using a simple Image processing-based pipeline proven to be good enough to map the image domain. 
 
-
+![Competetion Screenshot](competition.png)
