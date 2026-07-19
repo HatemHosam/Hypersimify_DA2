@@ -16,6 +16,6 @@ Our implemetation is based on Metric DepthAnythingV2 [repo](https://github.com/D
 
 To run this code, you need to install the requirements using pip install -r requirements.txt, then you can run the test script as below:
 
-python hypersimify_test.py --img_path path/to/img.png --checkpoint_path path/to/depth_anything_v2_metric_hypersim_vitl.pth --device cuda
+```python hypersimify_test.py --img_path path/to/img.png --checkpoint_path path/to/depth_anything_v2_metric_hypersim_vitl.pth --device cuda```
 
 
